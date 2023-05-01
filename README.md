@@ -1,4 +1,10 @@
 ## Observepoint coding challenge for Pedro Carara
+
+___
+**As an additional challenge, I built a web service using AWS Lambda to run this solution. 
+The code for the web service can be found in this [repository](https://github.com/cararax/IpTrackerService).** 
+___
+
 ### How does your code work?
 
 To solve the challenge, I used a HashMap to store the IP addresses and their access counts, and a MinHeap to keep track of the IP addresses with the highest access counts.
